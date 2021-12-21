@@ -14,6 +14,9 @@ class Skills extends Desenvolvedor {
   frameworks = ['ReactJs'];
 }
 ```
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MesopotamiaAlpha&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-le%C3%A3o-gomes-306ab2192" alt="Linkedin">
