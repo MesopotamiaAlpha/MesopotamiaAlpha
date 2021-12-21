@@ -14,7 +14,7 @@ class Skills extends Desenvolvedor {
   frameworks = ['ReactJs'];
 }
 ```
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MesopotamiaAlpha&theme=radical">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MesopotamiaAlpha&theme=dracula">
 
 <a href="https://github.com/Gurupreet">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MesopotamiaAlpha&theme=dracula&hide_langs_below=1" />
