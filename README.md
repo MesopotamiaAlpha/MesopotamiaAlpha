@@ -16,6 +16,6 @@ class Skills extends Desenvolvedor {
 ```
 
 <p align="left">
-    <a href="#" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-le%C3%A3o-gomes-306ab2192" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-le%C3%A3o-gomes-306ab2192/" /></a>
 </p>  
