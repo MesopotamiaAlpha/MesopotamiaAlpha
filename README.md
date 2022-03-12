@@ -3,8 +3,8 @@ import Desenvolvedor from 'MesopotamiaAlpha';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'José Antonio';
-  area    = 'Desenvolvedor Full-Stack';
-  trabalho  = 'EmbarqueBem';
+  area    = 'Analista de Suporte';
+  trabalho  = 'Viasoft';
   local = 'Pato Branco';
 }
 
