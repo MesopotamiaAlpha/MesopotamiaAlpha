@@ -9,9 +9,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript,Html,Css'];
-  bibliotecas  = ['MUI'];
-  frameworks = ['ReactJs'];
+  linguagens  = ['JavaScript,Html,Css,Android'];
+  bibliotecas  = ['MUI,Material Design 3'];
+  frameworks = ['ReactJs, Android Studio'];
 }
 ```
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MesopotamiaAlpha&theme=dracula">
