@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript,Html,Css,Android'];
+  linguagens  = ['JavaScript,Html,Css'];
   bibliotecas  = ['MUI,Material Design 3'];
   frameworks = ['ReactJs, Android Studio'];
 }
